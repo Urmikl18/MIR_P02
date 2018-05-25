@@ -8,4 +8,4 @@
 
 ## Execute
 1. cd target/
-2. java -jar MIR_P02.jar [folder with images]
+2. java -jar MIR_P02.jar [image_data_base_path][index_path][query_file_path]
